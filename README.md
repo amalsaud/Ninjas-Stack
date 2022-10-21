@@ -95,8 +95,8 @@ python manage.py makemigrations
 python manage.py migrate
 ```
 
-### Deployment
-This app is hosted on:
+### Demo
+[Ninjas Stack](https://www.youtube.com/watch?v=MkCSCvsetdo)
 
 ### Authors
 - [Nada Alsogour](https://github.com/Nada-bit73)
