@@ -13,7 +13,7 @@ Our project covers all learned concepts: Restful Routing, Validations with Djang
 
 ### Description
 
-The Ninjas Stack website is a platform for developers to communicate , cooperate, and grow !
+The Ninjas Stack website is a platform for developers to communicate , cooperate, and grow!
 
 Ninja's Stack is a community website for Ninja developers; Ninja developers can ask and answer each other and comment on other Ninjas' replies.
 
@@ -31,25 +31,25 @@ Profile Edit: Each Ninja can edit his/her profile.
  After logging in, we have :
 - Users dashobard consist of a list of all registered users, their information, and their authority level, whether admin or normal.
 
-- Clicking on the developer's name will take us to the developer page , where we can start a conversation in thread manner.
+- Clicking on the developer's name will take us to the developer page, where we can start a conversation in thread manner.
 
-This allows us, as developers, to ask any question we have and get help from others .
+This allows us, as developers, to ask any question we have and get help from others.
 
-- Each message is displayed with the sender's name and time .
+- Each message is displayed with the sender's name and time.
 
-- likes on the answers and unlike .
+- likes on the answers and unlike.
 
-- Each message has a list of names of those who liked the message .
+- Each message has a list of names of those who liked the message.
 
-- Profile page , has all the user data where the user can update his/her password and all other data according to the validation instructions.
+- Profile page, has all the user data where the user can update his/her password and all other data according to the validation instructions.
 
-Now the Admin has all the previos featurs plus the following :
+Now the Admin has all the previos featurs plus the following:
 
-- Add new users .
+- Add new users.
 
 - Edit existing users date and authority level.
 
-- Remove existing users .
+- Remove existing users.
 
 ## Getting Started
 
